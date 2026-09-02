@@ -59,8 +59,8 @@ h2 {
 }
 
 #interests li {
-  background: #ffe8ec;
-  border-color: #e94560;
+  background: #05b35c;
+  border-color: #820be4;
   color: #e94560;
 }
 
@@ -96,7 +96,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #4a0f96;
+  background: #510eaa;
   border: 1px solid #7313a0;
   border-radius: 12px;
 }
@@ -119,7 +119,7 @@ nav h1 {
 }
 
 .nav-li a {
-  color: #666;
+  color: #2f1b30;
   text-decoration: none;
   font-size: 0.85rem;
   font-weight: 500;
