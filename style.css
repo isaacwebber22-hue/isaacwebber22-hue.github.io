@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #498b0ba9;
+  background: linear-gradient(to bottom right, rgb(12, 165, 6), rgb(233, 233, 4), rgb(109, 109, 108), rgb(0, 217, 255), rgb(144, 5, 199));
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -59,7 +59,7 @@ h2 {
 }
 
 #interests li {
-  background: #05b35c;
+  background: #05b331;
   border-color: #820be4;
   color: #e94560;
 }
