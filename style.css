@@ -96,8 +96,8 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #510eaa;
-  border: 1px solid #7313a0;
+  background: #7642bb;
+  border: 1px solid #5d0b83;
   border-radius: 12px;
 }
 
@@ -132,7 +132,7 @@ nav h1 {
 
 .nav-li a:hover {
   background: #a33bcc;
-  color: #7511d3;
+  color: #4b078a;
 }
 
 /* Portfolio styles */
