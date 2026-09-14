@@ -3,10 +3,10 @@
 }
 
 body {
-  margin: 0;
-  background: rgb(12, 168, 6);
-  color: #222;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+margin: 0;
+background: linear-gradient(to bottom right, #0ca506, #dbf303,#707070,#0270ff,#9d08d8);
+color: #222;
+font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 #all-contents {
